@@ -2,7 +2,7 @@
 The Apollo Guidance Computer - A study in ACA Interface
 
 1.- Introductory material:
-[MAPLD 2004 conference](https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html)
+https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
 
 
