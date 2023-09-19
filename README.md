@@ -1,4 +1,4 @@
-# The Apollo Guidance Computer
+## The Apollo Guidance Computer
 An study in Computer Interfaces, Interpreters and Autopilots (1998 - 2010)
 
 # 1.- MAPALD 2004 Conference:
