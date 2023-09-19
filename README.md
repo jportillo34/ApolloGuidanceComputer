@@ -16,3 +16,5 @@ klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
 # 5.- All about Interpreters:
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
+
+![AGC](https://github.com/jportillo34/ApolloGuidanceComputer/blob/main/AGC_montaje.jpg)
