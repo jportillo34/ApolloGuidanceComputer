@@ -3,6 +3,8 @@ A study in Computer Interfaces, Interpreters and software Autopilots (1998 - 201
 
 # 1.- MAPALD 2004 Conference:
 https://www.klabs.org/mapld04/program_sessions/session_g.html
+
+# MAPALD 2004 Blog:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
 
 # 2.- MAPALD 2006 Conference:
