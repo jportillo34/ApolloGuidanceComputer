@@ -7,15 +7,17 @@ https://www.klabs.org/mapld04/program_sessions/session_g.html
 # MAPALD 2004 Blog:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
 
-# 2.- MAPALD 2006 Conference:
+# 2.- APOLLO Lunar Landing Challenge An Opportunity to Learn What was learned from the Apollo project? By Eldon C. Hall
+
+# 3.- MAPALD 2006 Conference:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
 
-# 3.- Lunar Module Attitude Controller Assembly Input Processing memo:
+# 4.- Lunar Module Attitude Controller Assembly Input Processing memo:
 https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
 https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 
-# 4.- MAPLD 2004 presentation:
+# 5.- MAPLD 2004 presentation:
 klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
-# 5.- All about Interpreters:
+# 6.- All about Interpreters:
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
