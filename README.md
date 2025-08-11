@@ -1,7 +1,7 @@
 ## The Apollo Guidance Computer
 A study in Computer Interfaces, Interpreters and software Autopilots (1998 - 2010)
 
-![MIT's Draper Lab and Apollo astronauts](Apollo_personal.JPG)
+<img src="Apollo_personal.JPG" alt="Event 1" width="500" />
 
 # 1.- MAPALD 2004 Conference:
 https://www.klabs.org/mapld04/program_sessions/session_g.html
