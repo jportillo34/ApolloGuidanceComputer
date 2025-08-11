@@ -29,17 +29,26 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
  
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
 * The Apollo Guidance Computer Block II *
- 
+<br>
+<br>
+<br>
+<br>
 <img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
 * Compare AGC's NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) versus Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors *
-
-     
+<br>
+<br>
+<br>
+<br>
 <img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="300" />
 * The AGC Block I tray (MAPALD 2004 conference) *
 <br>
 <br>
+<br>
+<br>
 <img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="300" />
 * AGC's interface circuit (MAPALD 2004 conference) *
+<br>
+<br>
 <br>
 <br>
 # 5.- MAPLD 2004 presentation:
