@@ -9,10 +9,13 @@ From 1992 to 2010, I had the opportunity to engage in historical research on the
 https://www.klabs.org/mapld04/program_sessions/session_g.html
 
 <img src="portillo_letter_scanned.jpg" alt="Event 1" width="500" />
-
+<br>
 # MAPLD 2004 Blog:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
-
+<br>
+<img src="MAPLD2004_participants.jpg" alt="Event 1" width="500" />
+Some participants of the MAPLD 2004 conference: Eldon C. Hall, Ramon Alonso, Cline Frasier, Hugh Blair-Smith and myself
+<br>
 # 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
 https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
 
