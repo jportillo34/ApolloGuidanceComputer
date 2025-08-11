@@ -69,8 +69,9 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <br>
+
 # 5.- MAPLD 2004 presentation:
-klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
+http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
 # 6.- All about Interpreters:
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
