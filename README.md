@@ -27,6 +27,7 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <img src="1.jpg" alt="Event 1" width="300" />
 * Apollo Guidance Computer's interface modules *
 
+
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
 * The Apollo Guidance Computer Block II *
 
