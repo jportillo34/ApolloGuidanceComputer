@@ -75,8 +75,6 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 * Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator in 1969 (NASA) and an AGC in 2004 (MAPALD 2004) *
 <br>
 <br>
-<br>
-<br>
 # 5.- MAPLD 2004 presentation:
 http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
