@@ -70,7 +70,7 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <img src="LGC_Jose_Armstrong.jpg" alt="Event 1" width="300" />
-* Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator (NASA) and an AGC (MAPALD 2004) *
+* Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator in 1969 (NASA) and an AGC in 2004 (MAPALD 2004) *
 <br>
 <br>
 <br>
