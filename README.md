@@ -20,16 +20,18 @@ https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.h
 # 4.- Lunar Module Attitude Controller Assembly Input Processing memo:
 https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
 https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
-
+ 
 <img src="2.JPG" alt="Event 1" width="300" />
 * Apollo Guidance Computer's A Circuit interface module *
-
+ 
 <img src="1.jpg" alt="Event 1" width="300" />
 * Apollo Guidance Computer's interface modules *
-
-
+ 
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
 * The Apollo Guidance Computer Block II *
+ 
+<img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
+* Compare AGC's NOR Gate logic module with an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era) *
 
 # 5.- MAPLD 2004 presentation:
 klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
