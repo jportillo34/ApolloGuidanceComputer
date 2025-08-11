@@ -39,13 +39,13 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <br>
-<img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="300" />
+<img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="200" />
 * The AGC Block I tray (MAPALD 2004 conference) *
 <br>
 <br>
 <br>
 <br>
-<img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="300" />
+<img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="200" />
 * AGC's interface circuit (MAPALD 2004 conference) *
 <br>
 <br>
