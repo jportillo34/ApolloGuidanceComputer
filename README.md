@@ -16,62 +16,51 @@ https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.h
 <img src="MAPLD2004_participants.jpg" alt="Event 1" width="500" />
 Some participants of the MAPLD 2004 conference: Eldon C. Hall, Ramon Alonso, Cline Frasier, Hugh Blair-Smith and myself
 <br>
-# 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
-https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
-
-# 3.- MAPLD 2006 Conference:
-https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
-
-# 4.- Lunar Module Attitude Controller Assembly Input Processing memo:
+Lunar Module Attitude Controller Assembly Input Processing memo (at MIT's Digital Apollo and at MAPLD 2004 web sites):
 https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
 https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
- 
+<br>
+# 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
+https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
+<br>
+# 3.- MAPLD 2006 Conference:
+https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
+<br>
+<img src="Smithsonian_Visit_2006.jpg" alt="Event 1" width="500" />
+* With NASA historian Frank O'Brien and AGC assmbler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
+<br>
 <img src="2.JPG" alt="Event 1" width="300" />
 * Apollo Guidance Computer's A Circuit interface module *
- 
+<br>
 <img src="1.jpg" alt="Event 1" width="300" />
 * Apollo Guidance Computer's interface modules *
- 
+<br>
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
 * The Apollo Guidance Computer Block II *
-<br>
-<br>
 <br>
 <br>
 <img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
 * Compare AGC's Dual NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors *
 <br>
 <br>
-<br>
-<br>
 <img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="200" />
 * The AGC Block I tray (MAPLD 2004 conference) *
-<br>
-<br>
 <br>
 <br>
 <img src="AGC_MAPALD_2004.jpg" alt="Event 1" width="200" />
 * The AGC Block II (MAPLD 2004 conference) *
 <br>
 <br>
-<br>
-<br>
 <img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="200" />
 * AGC's interface circuit (MAPLD 2004 conference) *
-<br>
-<br>
 <br>
 <br>
 <img src="AGC_Test_Raytheon.png" alt="Event 1" width="300" />
 * The Apollo Guidance Computer in its test stand at Raytheon *
 <br>
 <br>
-<br>
-<br>
 <img src="apollo15_LM_interior_1.JPG" alt="Event 1" width="300" />
 * The Apollo Guidance Computer inplace inside the Apollo 15's Lunar Module *
-<br>
-<br>
 <br>
 <br>
 <img src="LGC_Jose_Armstrong.jpg" alt="Event 1" width="300" />
@@ -80,6 +69,6 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 # 5.- MAPLD 2004 presentation:
 http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
-
+<br>
 # 6.- All about Interpreters:
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
