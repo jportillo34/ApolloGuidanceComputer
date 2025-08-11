@@ -51,6 +51,13 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <br>
+<img src="AGC_Test_Raytheon.png" alt="Event 1" width="300" />
+* The Apollo Guidance Computer in its test stand at Raytheon *
+<br>
+<br>
+<br>
+<br>
+
 # 5.- MAPLD 2004 presentation:
 klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
