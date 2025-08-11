@@ -92,10 +92,8 @@ Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulat
 <br>
 <br>
 # 5.- MAPLD 2004 presentation:
-<br>
 http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 <br>
 <br>
 # 6.- All about Interpreters:
-<br>
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
