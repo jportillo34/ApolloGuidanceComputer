@@ -17,11 +17,14 @@ https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.h
 <br>
 <br>
 <img src="MAPLD2004_participants.jpg" alt="Event 1" width="500" />
+<br>
 Some participants of the MAPLD 2004 conference: Eldon C. Hall, Ramon Alonso, Cline Frasier, Hugh Blair-Smith and myself
 <br>
 <br>
 Lunar Module Attitude Controller Assembly Input Processing memo (at MIT's Digital Apollo and at MAPLD 2004 web sites):
+<br>
 https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
+<br>
 https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
