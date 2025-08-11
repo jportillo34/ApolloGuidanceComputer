@@ -7,33 +7,43 @@ From 1992 to 2010, I had the opportunity to engage in historical research on the
 <br>
 # 1.- MAPLD 2004 Conference:
 https://www.klabs.org/mapld04/program_sessions/session_g.html
-
+<br>
+<br>
 <img src="portillo_letter_scanned.jpg" alt="Event 1" width="500" />
+<br>
 <br>
 # MAPLD 2004 Blog:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
 <br>
+<br>
 <img src="MAPLD2004_participants.jpg" alt="Event 1" width="500" />
 Some participants of the MAPLD 2004 conference: Eldon C. Hall, Ramon Alonso, Cline Frasier, Hugh Blair-Smith and myself
+<br>
 <br>
 Lunar Module Attitude Controller Assembly Input Processing memo (at MIT's Digital Apollo and at MAPLD 2004 web sites):
 https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
 https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
+<br>
 # 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
 https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
+<br>
 <br>
 # 3.- MAPLD 2006 Conference:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
 <br>
+<br>
 <img src="Smithsonian_Visit_2006.jpg" alt="Event 1" width="500" />
-* With NASA historian Frank O'Brien and AGC assmbler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
+* With NASA historian Frank O'Brien and AGC designer and assembler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
+<br>
 <br>
 <img src="2.JPG" alt="Event 1" width="300" />
 * Apollo Guidance Computer's A Circuit interface module *
 <br>
+<br>
 <img src="1.jpg" alt="Event 1" width="300" />
 * Apollo Guidance Computer's interface modules *
+<br>
 <br>
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
 * The Apollo Guidance Computer Block II *
@@ -69,6 +79,7 @@ https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.h
 <br>
 # 5.- MAPLD 2004 presentation:
 http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
+<br>
 <br>
 # 6.- All about Interpreters:
 https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
