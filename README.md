@@ -57,7 +57,12 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <br>
-
+<img src="apollo15_LM_interior_1.JPG" alt="Event 1" width="300" />
+* The Apollo Guidance Computer inplace inside the Apollo 15's Lunar Module *
+<br>
+<br>
+<br>
+<br>
 # 5.- MAPLD 2004 presentation:
 klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
 
