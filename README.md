@@ -37,47 +37,47 @@ https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.h
 <br>
 <br>
 <img src="Smithsonian_Visit_2006.jpg" alt="Event 1" width="500" />
-* With NASA historian Frank O'Brien and AGC designer and assembler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
+With NASA historian Frank O'Brien and AGC designer and assembler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
 <br>
 <br>
 <img src="2.JPG" alt="Event 1" width="300" />
-* Apollo Guidance Computer's A Circuit interface module *
+Apollo Guidance Computer's A Circuit interface module
 <br>
 <br>
 <img src="1.jpg" alt="Event 1" width="300" />
-* Apollo Guidance Computer's interface modules *
+Apollo Guidance Computer's interface modules
 <br>
 <br>
 <img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
-* The Apollo Guidance Computer Block II *
+The Apollo Guidance Computer Block II
 <br>
 <br>
 <img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
-* Compare AGC's Dual NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors *
+Compare AGC's Dual NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors
 <br>
 <br>
 <img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="200" />
-* The AGC Block I tray (MAPLD 2004 conference) *
+The AGC Block I tray (MAPLD 2004 conference)
 <br>
 <br>
 <img src="AGC_MAPALD_2004.jpg" alt="Event 1" width="200" />
-* The AGC Block II (MAPLD 2004 conference) *
+The AGC Block II (MAPLD 2004 conference)
 <br>
 <br>
 <img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="200" />
-* AGC's interface circuit (MAPLD 2004 conference) *
+AGC's interface circuit (MAPLD 2004 conference)
 <br>
 <br>
 <img src="AGC_Test_Raytheon.png" alt="Event 1" width="300" />
-* The Apollo Guidance Computer in its test stand at Raytheon *
+The Apollo Guidance Computer in its test stand at Raytheon
 <br>
 <br>
 <img src="apollo15_LM_interior_1.JPG" alt="Event 1" width="300" />
-* The Apollo Guidance Computer inplace inside the Apollo 15's Lunar Module *
+The Apollo Guidance Computer inplace inside the Apollo 15's Lunar Module
 <br>
 <br>
 <img src="LGC_Jose_Armstrong.jpg" alt="Event 1" width="300" />
-* Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator in 1969 (NASA) and an AGC in 2004 (MAPLD 2004) *
+Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator in 1969 (NASA) and an AGC in 2004 (MAPLD 2004)
 <br>
 <br>
 # 5.- MAPLD 2004 presentation:
