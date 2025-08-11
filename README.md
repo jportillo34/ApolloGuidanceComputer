@@ -36,7 +36,7 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
-* Compare AGC's NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) versus Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors *
+* Compare AGC's Dual NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors *
 <br>
 <br>
 <br>
