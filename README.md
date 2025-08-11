@@ -32,6 +32,12 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
  
 <img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
 * Compare AGC's NOR Gate logic module with an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era) *
+ 
+<img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="300" />
+* The AGC Block I tray (MAPALD 2004 conference) *
+
+<img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="300" />
+* AGC's interface circuit (MAPALD 2004 conference) *
 
 # 5.- MAPLD 2004 presentation:
 klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
