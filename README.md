@@ -1,5 +1,5 @@
 ## The Apollo Guidance Computer
-A study in Computer Interfaces, Interpreters and software Autopilots (1998 - 2010)
+A study in Computer Interfaces, Interpreters and software Autopilots (1992 - 2010)
 
 <img src="Apollo_personal.JPG" alt="Event 1" width="800" />
 
