@@ -1,8 +1,10 @@
 ## The Apollo Guidance Computer
-A study in Computer Interfaces, Interpreters and software Autopilots (1992 - 2010)
-
+From 1992 to 2010, I had the opportunity to engage in historical research on the Apollo Guidance Computer (AGC) and its interfaces with the Apollo spacecraft. This work led me to learn about computers in the 1960s, the beginnings of integrated logic gate circuits, and to personally meet the designers, programmers, and astronauts who used the AGC. In 2004, I presented the results of my research on the interface between the AGC and the manual control of the Apollo spacecraft as a use case of the same hardware interface with different functions (implemented through mission software) and the use of software virtual machines (Interpreters) during the 1960s. Below, I present some links of interest regarding the events, papers, and photographs.
+<br>
+<br>
 <img src="Apollo_personal.JPG" alt="Event 1" width="800" />
-
+<br>
+<br>
 # 1.- MAPALD 2004 Conference:
 https://www.klabs.org/mapld04/program_sessions/session_g.html
 
