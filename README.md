@@ -45,6 +45,12 @@ https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
 <br>
 <br>
 <br>
+<img src="AGC_MAPALD_2004.jpg" alt="Event 1" width="200" />
+* The AGC Block II (MAPALD 2004 conference) *
+<br>
+<br>
+<br>
+<br>
 <img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="200" />
 * AGC's interface circuit (MAPALD 2004 conference) *
 <br>
