@@ -11,7 +11,7 @@ https://www.klabs.org/mapld04/program_sessions/session_g.html
 # MAPALD 2004 Blog:
 https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
 
-# 2.- APOLLO Lunar Landing Challenge An Opportunity to Learn What was learned from the Apollo project? By Eldon C. Hall
+# 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
 https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
 
 # 3.- MAPALD 2006 Conference:
