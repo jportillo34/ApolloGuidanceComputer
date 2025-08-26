@@ -1,99 +1,10 @@
 ## The Apollo Guidance Computer
-From 1992 to 2006, I had the opportunity to engage in historical research on the Apollo Guidance Computer (AGC) and its interfaces with the Apollo spacecraft. This work led me to learn about computers in the 1960s, the beginnings of integrated logic gate circuits, and to personally meet the designers (Eldon C. Hall - Chief Designer, Hugh Blair-Smith - Designer of AGC's basic assembler language and Interpreter, Alan Green - DISKY interface programmer, Ramon Alonso - Designer of the DSKY and AGC's architecture, Robert Stengel - Designer and programmer of the Apollo lunar module's hand-controller software, all from MIT's Instrumentation Lab), Cline Frasier (from NASA), David Bates (from Raytheon), some of the Apollo Lunar Module programmer team (Donal Eyles, John Dyest), astronauts (John Young - Apollo 10 and Apollo 16, Fred Haise - Apollo 13) who were the AGC's users, computer historians (Frank O'Brien, Ronald Burkey), and modern NASA engineers (Richard Katz - organizer of MAPLD conferences). I did a lot of research during my visits to MIT's Drapper Lab (1998 - 1999) and to NASA's Office of Logic Design MAPLD conferences in Washington (2004 and 2006). In 2004, I presented the results of my research on the interface between the AGC and the manual control of the Apollo spacecraft as a use case of the same hardware interface with different functions (implemented through mission software) and the use of software virtual machines (Interpreters) during the 1960s. This research has been used as a reference to some publications, and also used in the Virtual AGC project (https://www.ibiblio.org/apollo/#gsc.tab=0). Below, I present some links of interest regarding the events, technical papers, presentations and photographs.
-<br>
-<br>
-<img src="Apollo_personal.JPG" alt="Event 1" width="800" />
-<br>
-<br>
-# 1.- MAPLD 2004 Conference:
-https://www.klabs.org/mapld04/program_sessions/session_g.html
-<br>
-<br>
-<img src="portillo_letter_scanned.jpg" alt="Event 1" width="500" />
-<br>
-<br>
-# MAPLD 2004 Blog:
-https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2004-digital.html
-<br>
-<br>
-<img src="MAPLD2004_participants.jpg" alt="Event 1" width="500" />
-<br>
-Some participants of the MAPLD 2004 conference: Eldon C. Hall, Ramon Alonso, Cline Frasier, Hugh Blair-Smith and myself
-<br>
-<br>
-Lunar Module Attitude Controller Assembly Input Processing memo (at MIT's Digital Apollo and at MAPLD 2004 web sites):
-<br>
-https://web.mit.edu/digitalapollo/Documents/Chapter8/portillo.pdf
-<br>
-https://www.ibiblio.org/apollo/klabs/papers/g202_portillo_p.pdf
-<br>
-<br>
-# 2.- APOLLO Lunar Landing Challenge: An Opportunity to review what was learned from the Apollo project? By Eldon C. Hall
-https://github.com/jportillo34/ApolloGuidanceComputer/blob/5ebb2f7fd67cd609d910a8669bf156bf94830cba/Corrections%20to%20SPECIAL%20RELATIVITY%20%20Final-March%202016.pdf
-<br>
-<br>
-# 3.- MAPLD 2006 Conference:
-https://jportillolugo.blogspot.com/2007/03/conferencia-nasa-mapld-2006-digital.html
-<br>
-<br>
-<img src="Smithsonian_Visit_2006.jpg" alt="Event 1" width="500" />
-<br>
-With NASA historian Frank O'Brien and AGC designer and assembler language designer Hugh Blair_Smith (behind us is the Apollo 11 command module behind)
-<br>
-<br>
-<img src="2.JPG" alt="Event 1" width="300" />
-<br>
-Apollo Guidance Computer's A Circuit interface module
-<br>
-<br>
-<img src="1.jpg" alt="Event 1" width="300" />
-<br>
-Apollo Guidance Computer's interface modules
-<br>
-<br>
-<img src="agc_blockII_2.jpg" alt="Event 1" width="300" />
-<br>
-The Apollo Guidance Computer Block II
-<br>
-<br>
-<img src="NOR-Gate_vs_RISC.JPG" alt="Event 1" width="300" />
-<br>
-Compare AGC's Dual NOR Gate logic module versus an MOTOROLA's 68701 Microcontroller (1970s era) and an Microchip's RISC microcontroller (1990s era). I had the opportunity to program both processors
-<br>
-<br>
-<img src="AGC_Blok_I_Tray.JPG" alt="Event 1" width="200" />
-<br>
-The AGC Block I tray (MAPLD 2004 conference)
-<br>
-<br>
-<img src="AGC_MAPALD_2004.jpg" alt="Event 1" width="200" />
-<br>
-The AGC Block II (MAPLD 2004 conference)
-<br>
-<br>
-<img src="AGC_ACA_Interface_A_Circuit.JPG" alt="Event 1" width="200" />
-<br>
-AGC's interface circuit (MAPLD 2004 conference)
-<br>
-<br>
-<img src="AGC_Test_Raytheon.png" alt="Event 1" width="300" />
-<br>
-The Apollo Guidance Computer in its test stand at Raytheon
-<br>
-<br>
-<img src="apollo15_LM_interior_1.JPG" alt="Event 1" width="300" />
-<br>
-The Apollo Guidance Computer inplace inside the Apollo 15's Lunar Module
-<br>
-<br>
-<img src="LGC_Jose_Armstrong.jpg" alt="Event 1" width="300" />
-<br>
-Astronaut Neil Armstrong with the AGC in the Apollo Lunar Module Mission Simulator in 1969 (NASA) and an AGC in 2004 (MAPLD 2004)
-<br>
-<br>
-# 5.- MAPLD 2004 presentation:
-http://klabs.org/mapld04/presentations/session_p/p202_portillo_s.ppt
-<br>
-<br>
-# 6.- All about Interpreters:
-https://jportillolugo.blogspot.com/2010/04/conversaciones-con-hugh-blair-smith.html
+
+
+From 1992 to 2006, I had the opportunity to engage in historical research on the Apollo Guidance Computer (AGC) and its interfaces with the Apollo spacecraft. This work led me to learn about computers in the 1960s, the beginnings of integrated logic gate circuits, and to personally meet the designers (Eldon C. Hall - Chief Designer, Hugh Blair-Smith - Designer of AGC's basic assembler language and Interpreter, Alan Green - DISKY interface software programmer, Ramon Alonso - Designer of the DSKY and AGC's architecture, Robert Stengel - Designer and programmer of the Apollo lunar module's hand-controller software, all from MIT's Instrumentation Lab), Cline Frasier (from NASA), David Bates (from Raytheon), some of the Apollo Lunar Module programmer team (Donal Eyles, John Dyest), astronauts (John Young - Apollo 10 and Apollo 16, Fred Haise - Apollo 13) who were the AGC's users, computer historians (Frank O'Brien, Ronald Burkey), and modern NASA engineers (Richard Katz - organizer of MAPLD conferences). I did a lot of research during my visits to MIT's Drapper Lab (1998 - 1999) and to NASA's Office of Logic Design MAPLD conferences in Washington (2004 and 2006).
+
+As a device, the AGC was an magnesium box measuring two feet (60.96 cm) by one foot (30.48 cm) by six inches (15.24 cm), weighing 70 pounds (31 kg) and consuming 55 watts. As an electronic system it was a general-purpose microprogrammed NOR-Gate logic based computer. However, its interfaces with the outside world were purpose-specific, designed to integrate with the Apollo spacecraft (although later it was also used in a modified F-8 Crusader). One of those interfaces was with the hand controller, which allowed the crew to send commands (of different electrical types) to the mission software during different mission phases. Some commands were low-level, while others were high-level (used to intervene in or guide the automatic system toward a territorial target different from the one pre-programmed before the mission). The AGC was the "brain" part of an inertial navigation, guidance and control system. Inertia is just resistance to change in direction of motion. This resistance is electrically measured and processed.
+
+There were programs and subroutines stored in the AGC's read-only memory modules (Core Rope memory), organized into two categories: "low-level" programs and "high-level" programs. The low-level programs were control software that interfaced the AGC with the outside world, including the hand controllers. The high-level programs were part of the "mathematical world" in which Apollo conducted its space missions. This virtual space was modeled and operated inside the computer as pseudo-mathematical expressions that programmers called "equations," such as the list that applies a transformation (matrix vector product) to an state vector (taken from the lunar landing software equations): VLOAD MXV VATT1 REFSMMAT VSR1 VAD UNFC/2 STORE V
+
+In 2004, I presented the results of my research on the interface between the AGC and the manual control of the Apollo lunar module's Digital Autopilot as a use case of the same hardware interface (the "A" interface circuit and the "D" interface circuit) with different functions (implemented through mission software) and the use of software virtual machines (Interpreters) during the 1960s. This research has been used as a reference to some publications, and also used in the Virtual AGC project (https://www.ibiblio.org/apollo/#gsc.tab=0). Below, I present some links of interest regarding the events, technical papers, presentations and photographs.
